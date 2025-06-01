@@ -20,66 +20,9 @@ My name is <span style="font-size:18px">Lokanath Panda</span>, a motivated profe
 <br>
 <h1 style="width: 90vw;text-align: center; letter-spacing:2px">Skills✨</h1>
 
-
-### 📝  Programming Languages:
-
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Python.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Java.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" />
-  <img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/C.svg" />
-<br/>
-<br/>
-<br/>
-
-### 🖼️  Frameworks and Tools:
-
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/React.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/CSS.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/PHP.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Node.js.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Postman.svg" />
-
-<br/>
-<br/>
-<br/>
-
-### 🛠️  DevOps Tools:
-
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Git.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" />
-<br/>
-<br/>
-<br/>
-
-### 📚  Databases:
-
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/AWS.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MySQL.svg" />
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" />
-
-<br/>
-<br/>
-<br/>
-
-### 🎨  Design:
-
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Figma.svg" />
-<br/>
-<br/>
-<br/>
-
-### 💻  IDE:
-
-<img height="42px" align="left" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" />
-<br/>
-<br/>
-<br/>
-
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,redux,nodejs,express,spring,aws,git,linux,docker,mongodb,dynamodb,postgresql,figma,python,java" alt="Skills" />
+</div>
 
 <h1 style="width: 90vw;text-align: center; letter-spacing:2px">On Github 🖥️</h1>
 <p align="left">
@@ -87,19 +30,20 @@ My name is <span style="font-size:18px">Lokanath Panda</span>, a motivated profe
 <br />
 </p>
 
-
-
 <h1 style="width: 90vw;text-align: center; letter-spacing:2px">Connection 📡</h1>
 <p align="left">
 
 <a href="https://linkedin.com/in/lokanath-panda-642193238/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" target="_blank"></a>
 <a href="https://twitter.com/lokanat48464605"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="70" target="_blank"></a>
 <a href="https://instagram.com/lokanathpanda7"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="70" target="_blank"></a>
-<a href="https://www.facebook.com/profile.php?id=100071480734923"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70" target="_blank">  </a>
+<a href="https://www.facebook.com/profile.php?id=100071480734923"><img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="70" target="_blank"> </a>
 
-
-<!-- <br/>
-<br/> -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thank you for visiting! -->
+ <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=iamlokanath&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=7C3EED&center=true&vCenter=true&random=false&width=600&height=50&lines=Thanks+for+visiting!+%F0%9F%98%8A" alt="Thank you" />
+</div>
+ 
 </div>
 </div>
