@@ -18,19 +18,29 @@ My name is <span style="font-size:18px">Lokanath Panda</span>, a motivated profe
 </p>
 </div>
 <br>
-<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Skills✨</h1>
+<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Skills</h1>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=js,react,nextjs,ts,tailwind,redux,nodejs,express,spring,aws,git,linux,docker,mongodb,dynamodb,postgresql,figma,python,java" alt="Skills" />
 </div>
 
-<h1 style="width: 90vw;text-align: center; letter-spacing:2px">On Github 🖥️</h1>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamlokanath&theme=midnight-purple"/>
-<br />
+---
+
+# GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iamlokanath&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamlokanath&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamlokanath&layout=compact&theme=tokyonight" />
 </p>
 
-<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Connection 📡</h1>
+# Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iamlokanath&theme=tokyo-night" />
+
+---
+
+<h1 style="width: 90vw;text-align: center; letter-spacing:2px">Connection</h1>
 <p align="left">
 
 <a href="https://linkedin.com/in/lokanath-panda-642193238/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="70" target="_blank"></a>
